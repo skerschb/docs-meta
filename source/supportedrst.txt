@@ -1,0 +1,20 @@
+.. guide::
+   
+   title: Supported RST in the Guides Site
+   type: Getting Started
+   level: beginner
+   author: MongoDB Documentation Team
+   product_version: 4.0
+   result_description:
+     In this guide, you will learn about supported rst directives in the VSCode extension for Snooty as they apply to the Guides site. This list of directives are merely what Snooty supports for validation, but it's a good place to start if you are just beginning your journey with reStructuredText.
+   time: 20
+   prerequisites:
+     - :doc:`</meta/snooty/>`
+   check_your_environment:
+     - Make sure you have VSCode with the Snooty extension. You can check by clicking blocks icon on the left of the VSCode window.
+   procedure:
+     .. include:: /includes/supported.rst
+   summary:
+     Use this guide as a reference for what's possible with Snooty next gen in rst.
+   whats_next:
+     Installing the Snooty Autobuilder
