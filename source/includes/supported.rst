@@ -139,7 +139,7 @@ In rst, roles are a great way to create logical linking to resources that may ch
 
 The idea is that by using a role you don't need to maintain links when they change, and formatting changes will take place without migration.
 
-Formating roles
+Formatting roles
 ----------------
 
 :guilabel:`This is the guilabel role`:

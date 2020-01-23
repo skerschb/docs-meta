@@ -1,6 +1,6 @@
 .. guide::
    
-   title: Supported RST in the Guides Site
+   title: Supported RST in Guides
    type: Getting Started
    level: beginner
    author: MongoDB Documentation Team
